@@ -21,3 +21,17 @@ sources:
       - name: order_item
       - name: seller
       - name: user
+
+
+  - name: bike_database
+    schema: bike_database
+    tables:
+      - name: brands
+      - name: categories
+      - name: customers
+      - name: order_items
+      - name: orders
+      - name: products
+      - name: staffs
+      - name: stocks
+      - name: stores

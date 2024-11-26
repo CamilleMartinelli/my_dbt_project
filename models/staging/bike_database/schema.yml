@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: stg_bike_database__brands
+    description: ""
+
+
+  - name: stg_bike_database__order_item
+    description: ""
+
+  - name: stg_bike_database__product
+    description: ""
+
+  - name: stg_bike_database__stocks
+    description: ""
+
+  - name: stg_bike_database__orders
+    description: ""

@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: int_bike_database__products
+    description: ""
+
+  - name : int_bike_database__orders_items 
+
+  - name: int_bike_database_orders
+
+  - name: int_bike_database__stocks
